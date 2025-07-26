@@ -4,6 +4,35 @@
 
 A personal productivity and toolkit application built with Flutter.
 
+## Getting Started
+
+To get a local copy up and running, follow these simple steps.
+
+### Prerequisites
+
+Make sure you have the Flutter SDK installed on your machine. For more information, see the [official documentation](https://flutter.dev/docs/get-started/install).
+
+-   Flutter SDK: `^3.4.1`
+
+### Installation & Running
+
+1.  Clone the repo:
+    ```sh
+    git clone https://github.com/your_username/yeyo.git
+    ```
+2.  Navigate to the project directory:
+    ```sh
+    cd yeyo
+    ```
+3.  Install packages:
+    ```sh
+    flutter pub get
+    ```
+4.  Run the app:
+    ```sh
+    flutter run
+    ```
+
 ## Features
 
 This application serves as a multi-purpose tool to help with daily tasks and creative projects. Key features include:
